@@ -1,0 +1,1 @@
+pyinstaller build.spec --distpath ./export/bin --workpath ./export/obj
